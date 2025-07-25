@@ -8,7 +8,7 @@ Junio/2025
 
 ## DOI
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16421345.svg)](https://doi.org/10.5281/zenodo.16421345)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16425263.svg)](https://doi.org/10.5281/zenodo.16425263)
 
 
 ## ISBN
