@@ -19,7 +19,7 @@ authors:
     orcid: https://orcid.org/0000-0001-9238-3472
 title: "El papel de la inteligencia artificial en la medicina (Capítulo 1. Inteligencia Artificial en la Medicina: Panorama Actual)"
 version: 1.0
-doi: 10.5281/zenodo.16421345
+doi: 10.5281/zenodo.16425263
 date-released: 2025-06-01
 abstract: "Este libro ofrece un análisis riguroso y accesible sobre el impacto transformador de la inteligencia artificial (IA) en la medicina contemporánea. Con un enfoque multidisciplinario que integra aspectos técnicos, clínicos, éticos y regulatorios, la obra aborda desde los fundamentos históricos y tecnológicos de la IA médica hasta sus aplicaciones actuales en diagnóstico por imagen, medicina personalizada, psiquiatría y salud digital. Se destacan tanto los logros clínicos como los retos pendientes, incluyendo la explicabilidad algorítmica, la equidad en el acceso, la protección de datos y la necesidad de formación profesional. A través de ejemplos concretos, evidencia científica y reflexiones críticas, el libro promueve una comprensión matizada y realista del rol que la IA puede desempeñar en mejorar la calidad, eficiencia y humanidad de la atención sanitaria."
 keywords:
@@ -29,5 +29,5 @@ keywords:
   - "Ética"
   - "Aprendizaje automático"
 license: CC-BY-ND-NC
-repository-code: "https://doi.org/10.5281/zenodo.16421345"
-url: "https://doi.org/10.5281/zenodo.16421345"
+repository-code: "https://doi.org/10.5281/zenodo.16425263"
+url: "https://doi.org/10.5281/zenodo.16425263"
