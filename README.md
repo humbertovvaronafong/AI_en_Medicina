@@ -35,4 +35,3 @@ Este capítulo traza la evolución histórica de la IA en medicina desde los sis
 # Enfoque del Libro
 
 El enfoque del libro es integrador, crítico y multidisciplinario, orientado a facilitar el entendimiento y la aplicación responsable de la IA en el entorno médico. Se dirige tanto a profesionales de la salud como a investigadores, estudiantes y responsables de políticas sanitarias, ofreciendo una herramienta para la acción informada y éticamente fundamentada en el uso de IA en medicina.
-

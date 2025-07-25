@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this book chapter, please cite it using the metadata from this file."
+type: book
+authors:
+  - family-names: "Varona-Fong"
+    given-names: "Humberto V."
+    email: hvinlay.varona@gmail.com
+    affiliation: "Hospital Psiquiatrico Provincial Docente Gustavo Machin"
+    orcid: https://orcid.org/0009-0007-0074-3719
+  - family-names: "Varona-Gonzalez"
+    given-names: "Humberto L."
+    email: humberto.varona@gmail.com
+    affiliation: "Federal university of Pernambuco"
+    orcid: https://orcid.org/0000-0001-7405-4827
+  - family-names: "Herold-Garcia"
+    given-names: "Silena"
+    email: silena.herold@gmail.com
+    affiliation: "Federal university of Pernambuco"
+    orcid: https://orcid.org/0000-0001-9238-3472
+title: "El papel de la inteligencia artificial en la medicina (Capítulo 1. Inteligencia Artificial en la Medicina: Panorama Actual)"
+version: 1.0
+doi: 10.5281/zenodo.16421345
+date-released: 2025-06-01
+abstract: "Este libro ofrece un análisis riguroso y accesible sobre el impacto transformador de la inteligencia artificial (IA) en la medicina contemporánea. Con un enfoque multidisciplinario que integra aspectos técnicos, clínicos, éticos y regulatorios, la obra aborda desde los fundamentos históricos y tecnológicos de la IA médica hasta sus aplicaciones actuales en diagnóstico por imagen, medicina personalizada, psiquiatría y salud digital. Se destacan tanto los logros clínicos como los retos pendientes, incluyendo la explicabilidad algorítmica, la equidad en el acceso, la protección de datos y la necesidad de formación profesional. A través de ejemplos concretos, evidencia científica y reflexiones críticas, el libro promueve una comprensión matizada y realista del rol que la IA puede desempeñar en mejorar la calidad, eficiencia y humanidad de la atención sanitaria."
+keywords:
+  - "Medicina"
+  - "Inteligencia artificial"
+  - "diagnóstico"
+  - "Ética"
+  - "Aprendizaje automático"
+license: CC-BY-ND-NC
+repository-code: "https://doi.org/10.5281/zenodo.16421345"
+url: "https://doi.org/10.5281/zenodo.16421345"
